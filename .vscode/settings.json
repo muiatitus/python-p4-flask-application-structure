@@ -1,0 +1,7 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none",
+  "python.pythonPath": "/home/titus/.local/share/virtualenvs/python-p4-flask-application-structure-A_2cg2nD/bin/python"
+}
